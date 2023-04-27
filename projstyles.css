@@ -1,0 +1,10 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: yellow;
+    background-color: gray;
+    
+}
+
+.border {
+    border: 2px maroon;
+}
